@@ -51,7 +51,7 @@ export const FacultySection: React.FC<FacultySectionProps> = ({ onOpenEnrollment
       qualifications: 'M.Pharm / B.Pharm • Registered Pharmacist (NPC)',
       experience: '8+ Years Academic & NPC Licensure Mentorship',
       studentsMentored: '5,500+ Aspirants Mentored',
-      imageSrc: '1789059142364.png',
+      imageSrc: 'https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=600',
       specialties: ['Pharmacology & Therapeutics', 'Nepal Drug Act 2035 & Jurisprudence', 'CBT Mock Elimination Techniques', 'Loksewa Preparation'],
       bio: 'Leading educator recognized across Nepal for transforming intricate pharmacology pathways into intuitive, memorable clinical frameworks. Spearheads high-yield MCQ analysis, Drug Act jurisprudence, and Loksewa pharmacy officer coaching.',
       coreSubjects: [
@@ -75,7 +75,7 @@ export const FacultySection: React.FC<FacultySectionProps> = ({ onOpenEnrollment
       qualifications: 'M.Pharm / B.Pharm • Registered Pharmacist (NPC)',
       experience: '7+ Years Industrial & Licensure Examination Training',
       studentsMentored: '5,000+ Aspirants Mentored',
-      imageSrc: '1789059927901.png',
+      imageSrc: 'https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=600',
       specialties: ['Pharmaceutics & Biopharmaceutics', 'Medicinal Chemistry & SAR', 'Pharmacognosy & Indigenous Herbs', 'Hospital Compounding'],
       bio: 'Renowned authority on pharmaceutical formulations, medicinal chemistry mechanisms, and active phytochemical testing. Pioneer of ANPEP signature mnemonic systems that make complex chemistry formulas effortless to retain.',
       coreSubjects: [

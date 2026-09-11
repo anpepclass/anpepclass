@@ -228,15 +228,10 @@ export default function App() {
                     <div className="relative shrink-0 mx-auto sm:mx-0">
                       <div className="w-28 h-28 sm:w-32 sm:h-32 rounded-2xl overflow-hidden shadow-md border-2 border-white bg-slate-200">
                         <img
-                          src="1789059142364.png"
+                          src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=600"
                           alt="Ashok Kumar Gupta"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover object-top"
-                          onError={(e) => {
-                            const target = e.currentTarget;
-                            target.onerror = null;
-                            target.src = 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=600';
-                          }}
                         />
                       </div>
                       <span className="absolute -bottom-1.5 -right-1.5 p-1 rounded-full bg-sky-600 text-white shadow-xs" title="Verified NPC Faculty">
@@ -294,15 +289,10 @@ export default function App() {
                     <div className="relative shrink-0 mx-auto sm:mx-0">
                       <div className="w-28 h-28 sm:w-32 sm:h-32 rounded-2xl overflow-hidden shadow-md border-2 border-white bg-slate-200">
                         <img
-                          src="1789059927901.png"
+                          src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=600"
                           alt="Sanjaya Acharya"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover object-top"
-                          onError={(e) => {
-                            const target = e.currentTarget;
-                            target.onerror = null;
-                            target.src = 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600';
-                          }}
                         />
                       </div>
                       <span className="absolute -bottom-1.5 -right-1.5 p-1 rounded-full bg-sky-600 text-white shadow-xs" title="Verified NPC Faculty">
