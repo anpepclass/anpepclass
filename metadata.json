@@ -1,0 +1,6 @@
+{
+  "name": "ANPEP Classes - Pharmacy Exam Preparation",
+  "description": "Official learning and mock exam preparation platform for ANPEP Classes (www.anpepclasses.com), specializing in Nepal Pharmacy Council (NPC) License and Loksewa pharmacy exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
